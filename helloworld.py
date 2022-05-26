@@ -1,1 +1,1 @@
-print('hell every one')
+print('hello every one')
